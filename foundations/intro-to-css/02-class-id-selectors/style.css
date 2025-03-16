@@ -1,0 +1,22 @@
+.number-1,
+.number-3 {
+    background-color: #d8738e;
+    font-family: "Verdana", "DejaVu Sans", sans-serif
+  
+}
+
+.number-3 {
+    font-size: 24px;
+}
+
+#id-1 {
+    color: #214cda;
+    font-size: 36px;
+
+}
+
+#id-2 {
+    background-color: rgb(121, 226, 143);
+    font-size: 24px;
+    font-weight: bold;
+}
